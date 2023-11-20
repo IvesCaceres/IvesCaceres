@@ -17,4 +17,4 @@ Titulado con distinción
 Puerto Montt, Chile
 
 
-[![python!](https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js)](<iconify-icon icon="logos:python"></iconify-icon>)
+[![python!](https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js)](icon="logos:python")
