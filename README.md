@@ -15,6 +15,3 @@ Titulado con distinción
 - Técnico nivel superior en servicios turísticos mención turismo aventura, Inacap
 2009
 Puerto Montt, Chile
-
-<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
-<iconify-icon icon="skill-icons:python-dark"></iconify-icon> Python Proyecto
