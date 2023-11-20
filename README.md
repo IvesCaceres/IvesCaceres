@@ -1,5 +1,5 @@
 # Data Scientist
-## Tecnologies
+## Tecnologies 
 ![My Skills](..\img\python.svg)
 
 ## Acerca de mi
