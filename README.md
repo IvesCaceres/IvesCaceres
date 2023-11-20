@@ -2,7 +2,7 @@
 
 ## Tecnologies
 
-| ![Logo de Python](https://github.com/IvesCaceres/IvesCaceres/blob/5788782f10498fa1966b48819b47a55bffcefc7f/img/python.svg) | ![scikit](https://github.com/IvesCaceres/IvesCaceres/blob/25f7044d0cd1bf90c961fb7baa5e96947bc5dd84/img/scikitlearn.svg) |![matplot](https://github.com/IvesCaceres/IvesCaceres/blob/f5291ed41b6a70f85c89a01c6ce36c05d1dfeb3b/img/matplotlib.svg)
+| ![Logo de Python](https://github.com/IvesCaceres/IvesCaceres/blob/5788782f10498fa1966b48819b47a55bffcefc7f/img/python.svg)  ![scikit](https://github.com/IvesCaceres/IvesCaceres/blob/25f7044d0cd1bf90c961fb7baa5e96947bc5dd84/img/scikitlearn.svg) ![matplot](https://github.com/IvesCaceres/IvesCaceres/blob/f5291ed41b6a70f85c89a01c6ce36c05d1dfeb3b/img/matplotlib.svg)
 |-------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 
 
