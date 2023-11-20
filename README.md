@@ -1,7 +1,7 @@
 # Data Scientist
 ## Tecnologies
 [![My Skills](https://skillicons.dev/icons?i=py,sqlite,tensorflow,postgres)](https://skillicons.dev)
-![](https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js)
+
 ## Acerca de mi
 Como ingeniero en administración de empresas con sólidos conocimientos en data science, poseo habilidades esenciales tales como pensamiento crítico, proactiva resolución de problemas y una comunicación efectiva. Mi curiosidad intelectual me impulsa a mantenerme actualizado en las últimas tendencias en el campo. Además, mi comprensión de los negocio me permite abordar problemas de manera estratégica, alineando los análisis con los objetivos organizacionales. En conjunto, estas habilidades me convierten en un recurso valioso para cualquier equipo de data science.
 ## Educación
@@ -16,3 +16,5 @@ Titulado con distinción
 2009
 Puerto Montt, Chile
 
+
+[![python!](https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js)](<iconify-icon icon="logos:python"></iconify-icon>)
