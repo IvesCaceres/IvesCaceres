@@ -2,7 +2,7 @@
 
 ## Tecnologies
 
-![all](https://github.com/IvesCaceres/IvesCaceres/blob/12a353f3eddca4fd29515a8976568c1e08a81938/all.png) 
+![all](https://github.com/IvesCaceres/IvesCaceres/blob/1427b87940fe4181f5fdc17e7f3fd57e5359351d/all.png) 
 
 
 
