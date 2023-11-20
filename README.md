@@ -1,6 +1,7 @@
 ![header](https://github.com/IvesCaceres/IvesCaceres/blob/28e8775fff55335edb478eb4fee1dd4ff719cddb/1698353963525.jpg)
 
-### :page_with_curl: About
+## :page_with_curl: About
+:climbing:Rock Climbing |:family_man_woman_boy:
 Como ingeniero en administración de empresas con sólidos conocimientos en data science, poseo habilidades esenciales tales como pensamiento crítico, proactiva resolución de problemas y una comunicación efectiva. Mi curiosidad intelectual me impulsa a mantenerme actualizado en las últimas tendencias en el campo. Además, mi comprensión de los negocio me permite abordar problemas de manera estratégica, alineando los análisis con los objetivos organizacionales. En conjunto, estas habilidades me convierten en un recurso valioso para cualquier equipo de data science.
 
 ### :computer: Tecnologies & Tools
