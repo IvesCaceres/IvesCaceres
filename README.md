@@ -1,9 +1,5 @@
 ![header](https://github.com/IvesCaceres/IvesCaceres/blob/28e8775fff55335edb478eb4fee1dd4ff719cddb/1698353963525.jpg)
-
-# Data Scientist
-
 ## Tecnologies
-
 ![all](https://github.com/IvesCaceres/IvesCaceres/blob/1427b87940fe4181f5fdc17e7f3fd57e5359351d/all.png) 
 
 
