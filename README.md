@@ -2,7 +2,16 @@
 
 ## Tecnologies
 ![skills](https://github.com/IvesCaceres/IvesCaceres/blob/5788782f10498fa1966b48819b47a55bffcefc7f/img/python.svg),()
-| ![Logo de Python](https://github.com/IvesCaceres/IvesCaceres/blob/5788782f10498fa1966b48819b47a55bffcefc7f/img/python.svg) | ![Otra Imagen]([URL_de_la_otra_imagen](https://github.com/IvesCaceres/IvesCaceres/blob/25f7044d0cd1bf90c961fb7baa5e96947bc5dd84/img/scikitlearn.svg)) |
+| ![Logo de Python](https://github.com/IvesCaceres/IvesCaceres/blob/5788782f10498fa1966b48819b47a55bffcefc7f/img/python.svg) | ![scikit](https://github.com/IvesCaceres/IvesCaceres/blob/25f7044d0cd1bf90c961fb7baa5e96947bc5dd84/img/scikitlearn.svg) |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+
+
+
+
+
+
+
+| ![Logo de Python](https://github.com/IvesCaceres/IvesCaceres/blob/5788782f10498fa1966b48819b47a55bffcefc7f/img/python.svg) | ![Otra Imagen]([URL_de_la_otra_imagen]()) |https://github.com/IvesCaceres/IvesCaceres/blob/25f7044d0cd1bf90c961fb7baa5e96947bc5dd84/img/scikitlearn.svg
 |-------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 
 ## Acerca de mi
