@@ -21,4 +21,4 @@ Titulado con distinción
 2009
 Puerto Montt, Chile
 
-![stats](https://github-readme-stats.vercel.app/api?IvesCaceres)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?IvesCaceres= &theme=radical)
