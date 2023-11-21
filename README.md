@@ -10,14 +10,8 @@ Hi I´m Ives, I´m a data scientits, my insatiable curiosity for unraveling the 
 
 
 ### :mortar_board: Education
-- Data science and machine learning, 4 Geeks Academy
-2023 Santiago, Chile
-- Business administration, Universidad Gabriela Mistral
-2014
-Puerto Varas, Chile
-
-- Higher level technician in tourist services with a mention in adventure tourism, Inacap
-2009
-Puerto Montt, Chile
+- Data science and machine learning, 4 Geeks Academy 2023 Santiago, Chile
+- Business administration, Universidad Gabriela Mistral 2014 Puerto Varas, Chile
+- Higher level technician in tourist services with a mention in adventure tourism, Inacap 2009 Puerto Montt, Chile
                                                                                    
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=IvesCaceres&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
