@@ -15,3 +15,4 @@ Hi I´m Ives, I´m a data scientits, my insatiable curiosity for unraveling the 
 - Higher level technician in tourist services with a mention in adventure tourism, Inacap 2009 Puerto Montt, Chile
                                                                                    
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=IvesCaceres&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=IvesCaceres&show_icons=true&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
