@@ -16,7 +16,7 @@ The repository provides reproducible Python and Jupyter workflows, reviewed aggr
 
 Results describe the analyzed corpus and should not be interpreted as population prevalence estimates.
 
-### [AppBoletas](https://github.com/IvesCaceres/AppBoletas)
+### [BoletAPP](https://github.com/IvesCaceres/BoletAPP)
 
 A Windows application for managing Chilean electronic professional-fee receipts, built with Python, FastAPI, React, TypeScript and Playwright.
 
