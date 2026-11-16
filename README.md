@@ -1,18 +1,43 @@
-![header](https://github.com/IvesCaceres/IvesCaceres/blob/28e8775fff55335edb478eb4fee1dd4ff719cddb/1698353963525.jpg)
+# Ives Cáceres
 
-## :page_with_curl: About
-:family_man_woman_boy:Family | :snowboarder:Snowboard | :climbing:Rock Climbing | :mountain_biking_man:MTB | :headphones:Music |	:nerd_face:Geek |
+**AI Product Builder · Open science · Privacy-aware software**
 
-Hi I´m Ives, I´m a data scientist, my insatiable curiosity for unraveling the complexities of everyday challenges has sculpted me into the proactive and relentless individual I am today. This fervent pursuit of understanding propels me to seek answers with unwavering determination. A paramount passion of mine is rock climbing—an endeavor that mirrors life's perpetual ascent towards higher peaks. I channel this philosophy into my daily existence, embracing a balanced and concentrated approach to surmount the goals and obstacles I set for myself.
+I build practical software products at the intersection of AI, automation, data analysis and open science.
 
-## :computer: Tecnologies & Tools
-![all](https://github.com/IvesCaceres/IvesCaceres/blob/1427b87940fe4181f5fdc17e7f3fd57e5359351d/all.png) 
+My work focuses on turning real-world workflows and sensitive information into useful tools and reproducible knowledge, with clear boundaries around privacy, data access and public release.
 
+## Selected Projects
 
-## :mortar_board: Education
-- Data science and machine learning, 4 Geeks Academy 2023 Santiago, Chile
-- Business administration, Universidad Gabriela Mistral 2014 Puerto Varas, Chile
-- Higher level technician in tourist services with a mention in adventure tourism, Inacap 2009 Puerto Montt, Chile
-                                                                                   
+### [Echo-Vet-Analysis](https://github.com/IvesCaceres/Echo-Vet-Analysis)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=IvesCaceres&show_icons=true&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
+An open-science project for analyzing veterinary ultrasound reports without publishing the underlying clinical records.
+
+The repository provides reproducible Python and Jupyter workflows, reviewed aggregate statistics and synthetic examples. It explores how sensitive datasets can support reusable knowledge while keeping individual records private.
+
+Results describe the analyzed corpus and should not be interpreted as population prevalence estimates.
+
+### [AppBoletas](https://github.com/IvesCaceres/AppBoletas)
+
+A Windows application for managing Chilean electronic professional-fee receipts, built with Python, FastAPI, React, TypeScript and Playwright.
+
+It demonstrates end-to-end product development, browser automation, local persistence and separation between preparation and final confirmation. The public repository excludes private tax records, credentials and browser sessions.
+
+### [VetTalk V1 Demo](https://github.com/IvesCaceres/VetTalk-V1-Demo)
+
+An offline React/JavaScript demonstration of an organ-based veterinary reporting workflow.
+
+It includes simulated dictation and processing, report previews and synthetic DOCX generation. It runs without API keys, accounts, patient data or external services and is not intended for clinical use.
+
+## What I'm interested in
+
+- AI products with clear privacy and data-access boundaries.
+- Open science and reproducible analysis.
+- Responsible reuse of sensitive datasets.
+- Automation and public-interest technology.
+- Tools that people can inspect, reproduce and adapt.
+
+**Core tools:** Python · FastAPI · React · TypeScript/JavaScript · SQL · Jupyter · Playwright
+
+I use AI coding tools and programming agents as part of my development workflow, alongside testing, review and explicit documentation of limitations.
+
+I'm interested in remote AI product-building, open-source and applied software opportunities.
